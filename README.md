@@ -1,7 +1,7 @@
 ## Hello there! 👋
 <div>
   <a href="#">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-SSD&layout=compact&langs_count=7&theme=github_dark&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-SSD&layout=compact&langs_count=7&theme=dark&count_private=true"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
