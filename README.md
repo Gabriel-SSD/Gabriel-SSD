@@ -1,4 +1,4 @@
-<h1 align="center">Hello There, I'm Gabriel</h1>
+<h1 align="center">Hello There!</h1>
 <h3 align="center">Exploring data science</h3>
 
 - 🔭 I’m currently working on [Mercury](https://github.com/Gabriel-SSD/Mercury)
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gabriel-SSD](https://github.com/Gabriel-SSD)
 
-- 💬 Ask me about **SQL, Python**
+- 💬 Ask me about **SQL, Python, Linux**
 
 - 📫 How to reach me **desmaraisgss@gmail.com**
 
