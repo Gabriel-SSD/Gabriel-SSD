@@ -1,7 +1,7 @@
 <h1 align="center">Hello There!</h1>
 <h3 align="center">Exploring data science</h3>
 
-<p align="left">🔭 I’m currently working on <a href="https://github.com/Gabriel-SSD/Mercury">Mercury</a></p>
+<p align="left">🔭 I’m currently working on <a href="https://github.com/Gabriel-SSD/Venus">Venus</a></p>
 <p align="left">🌱 I’m currently learning <strong>Data Lake</strong></p>
 <p align="left">👨‍💻 All of my projects are available at <a href="https://github.com/Gabriel-SSD">https://github.com/Gabriel-SSD</a></p>
 <p align="left">💬 Ask me about <strong>SQL, Python, Linux</strong></p>
