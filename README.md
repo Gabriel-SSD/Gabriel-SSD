@@ -1,12 +1,12 @@
 <h1 align="center">Hello There!</h1>
-<h3 align="center">Exploring data science</h3>
+<h3 align="center">Exploring Data Engineering</h3>
 
 <p align="left">🔭 I’m currently working on <a href="https://github.com/Gabriel-SSD/Venus">Venus</a></p>
-<p align="left">🌱 I’m currently learning <strong>Data Lake</strong></p>
+<p align="left">🌱 I’m currently learning <strong>Data Security and High Availability</strong></p>
 <p align="left">👨‍💻 All of my projects are available at <a href="https://github.com/Gabriel-SSD">https://github.com/Gabriel-SSD</a></p>
-<p align="left">💬 Ask me about <strong>SQL, Python, Linux</strong></p>
+<p align="left">💬 Ask me about <strong>SQL, Python, Linux and Docker</strong></p>
 <p align="left">📫 How to reach me <strong>desmaraisgss@gmail.com</strong></p>
-
+<!--
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
@@ -40,7 +40,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-
+-->
+<!--
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-SSD&layout=compact&langs_count=7&theme=dark&count_private=true"/>
 </p>
+-->
