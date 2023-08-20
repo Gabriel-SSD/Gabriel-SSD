@@ -3,7 +3,7 @@
 
 <p align="left">🔭 I’m currently working on <a href="https://github.com/Gabriel-SSD/Venus">Venus</a></p>
 <p align="left">🌱 I’m currently learning <strong>Data Security and High Availability</strong></p>
-<p align="left">👨‍💻 All of my projects are available at <a href="https://github.com/Gabriel-SSD">https://github.com/Gabriel-SSD</a></p>
+<p align="left">👨‍💻 All of my projects are available at <a href="https://github.com/Gabriel-SSD?tab=repositories">here</a></p>
 <p align="left">💬 Ask me about <strong>SQL, Python, Linux and Docker</strong></p>
 <p align="left">📫 How to reach me <strong>desmaraisgss@gmail.com</strong></p>
 <!--
